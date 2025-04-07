@@ -1,4 +1,4 @@
-# Facebook Social Network Analysis: Recommendation System
+# Facebook Social Network Analysis: User Recommendation System
 
 ## Overview
 
